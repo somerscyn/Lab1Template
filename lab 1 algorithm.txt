@@ -1,0 +1,21 @@
+﻿1. Import scanner
+2. Declare scanner
+3. Ask user for the name of the item
+4. Ask for the number of units for said item
+5. Ask for the price per unit for the item
+6. Ask user for the name of the second item
+7. Ask for the number of units for said item
+8. Ask for the price per unit for the second item
+9. Print item 1 name, units and price of unit
+10. Print item 2 name, units and price of unit
+11. Calculate and print total cost
+12. Thank you message
+
+
+https://onlinegdb.com/ayU64L2ZH 
+
+
+https://onlinegdb.com/aOsQW_Fol
+
+
+https://onlinegdb.com/jJjSIBqX8
